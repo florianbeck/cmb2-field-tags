@@ -1,12 +1,7 @@
 # CMB2 Field Type: Tags
 
 **Contributors:**      [florianbeck](https://github.com/florianbeck)  
-**Donate link:**       [http://florianbeck.de](http://florianbeck.de)  
-**Required at least:** 3.8.2  
-**Tested up to:**      4.4.2  
-**Stable tag:**        1.0.0  
-**License:** GPLv3  
-**License URI:** [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html)
+**License:** GPLv3 ([http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html))
 
 WorsPress-Tags-like field type for Custom Metaboxes and Fields for WordPress using CMB2.  
 
