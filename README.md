@@ -38,7 +38,7 @@ require_once 'init.php';
 Add another line to include the ```cmb2-field-tags.php``` file. Something like:
 
 ```php
-require_once 'cmb2-field-tags/cmb2-field-tags.php';
+require_once 'cmb2-field-type-tags/cmb2-field-type-tags.php';
 ```
 
 ## Usage
