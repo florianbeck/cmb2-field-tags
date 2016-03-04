@@ -3,7 +3,7 @@
 **Contributors:**      [florianbeck](https://github.com/florianbeck)  
 **License:** GPLv3 ([http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html))
 
-WorsPress-Tags-like field type for Custom Metaboxes and Fields for WordPress using CMB2.  
+WordPress-Tags-like field type for Custom Metaboxes and Fields for WordPress using CMB2.  
 
 ## Description
 WordPress-Tags-like field type for [CMB2](https://github.com/WebDevStudios/CMB2). Based on [WordPress Tags-Like Meta Box](https://github.com/WebDevStudios/WordPress-tags-like-meta-box).
