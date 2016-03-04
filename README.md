@@ -43,6 +43,8 @@ require_once 'cmb2-field-tags/cmb2-field-tags.php';
 
 ## Usage
 
+See [CMB2's Wiki](https://github.com/WebDevStudios/CMB2/wiki) for general explanations of how to use CMB2.
+
 ```tags``` — WordPress-Tags-like input field. Example:
 
 ```php
