@@ -5,6 +5,8 @@
 
 WordPress-Tags-like field type for Custom Metaboxes and Fields for WordPress using CMB2.  
 
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
 ## Description
 WordPress-Tags-like field type for [CMB2](https://github.com/WebDevStudios/CMB2). Based on [WordPress Tags-Like Meta Box](https://github.com/WebDevStudios/WordPress-tags-like-meta-box).
 
